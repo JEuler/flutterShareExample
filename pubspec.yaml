@@ -28,6 +28,9 @@ dependencies:
   video_thumbnail:
   esys_flutter_share:
   wc_flutter_share:
+  image_downloader:
+  url_launcher:
+  #share_social_media_plugin:
 dev_dependencies:
   flutter_test:
     sdk: flutter
